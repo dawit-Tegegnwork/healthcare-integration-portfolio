@@ -2,6 +2,16 @@
 
 Index of public-safe healthcare integration, interoperability, and AI backend demos by [Dawit Tegegnwork Wubale](https://github.com/dawit-Tegegnwork).
 
+[![Portfolio site](https://img.shields.io/badge/Portfolio-live-0ea5e9?style=flat-square)](https://dawit-tegegnwork.github.io/portfolio-website/)
+
+## Live links
+
+| Resource | URL |
+|----------|-----|
+| Portfolio website | https://dawit-tegegnwork.github.io/portfolio-website/ |
+| Healthcare AI (cloud deploy) | [Render deploy guide](https://github.com/dawit-Tegegnwork/healthcare-ai-workflow-assistant/blob/main/docs/RENDER_DEPLOY.md) |
+| Enterprise workflow (cloud deploy) | [Render deploy guide](https://github.com/dawit-Tegegnwork/enterprise-workflow-management-system/blob/master/docs/RENDER_DEPLOY.md) |
+
 All projects use synthetic or demo data with documented limitations. None represent official national deployments or production clinical systems.
 
 ## Integration & Interoperability
