@@ -26,11 +26,21 @@ Fork of OpenELIS Global for exploring the OpenELIS/LIMS ecosystem. Not original 
 
 ## Healthcare AI Backend
 
-### [MediMind HEP Assist AI](https://github.com/dawit-Tegegnwork/medimind-hep-assist-ai)
+### [Healthcare AI Workflow Assistant](https://github.com/dawit-Tegegnwork/medimind-hep-assist-ai) *(renaming to healthcare-ai-workflow-assistant)*
 
-FastAPI backend demo: clinical text preprocessing, synthetic guideline retrieval, SOAP note drafting, JSONL audit logging.
+FastAPI workflow demo: synthetic notes, mock LLM structured extraction, human review, PostgreSQL audit logs, dashboard.
 
-**Stack:** Python, FastAPI, Pydantic, pytest, Docker Compose
+**Stack:** Python, FastAPI, SQLModel, PostgreSQL, Docker Compose, pytest
+
+## Full-stack & Backend Portfolio Demos
+
+| Project | Focus |
+|---------|-------|
+| [enterprise-workflow-management-system](https://github.com/dawit-Tegegnwork/enterprise-workflow-management-system) | RBAC, JWT, approvals, audit, CSV export |
+| [golang-transaction-api](https://github.com/dawit-Tegegnwork/golang-transaction-api) | Idempotency, transaction-safe transfers |
+| [node-firebase-mobile-backend](https://github.com/dawit-Tegegnwork/node-firebase-mobile-backend) | Firebase emulators, Cloud Functions |
+| [cpims-information-management-demo](https://github.com/dawit-Tegegnwork/cpims-information-management-demo) | Synthetic case records, data quality |
+| [application-support-runbook-lab](https://github.com/dawit-Tegegnwork/application-support-runbook-lab) | Incident triage, UAT, SQL checks |
 
 ## EMR / Facility Software (Work in Progress)
 
