@@ -26,7 +26,7 @@ Fork of OpenELIS Global for exploring the OpenELIS/LIMS ecosystem. Not original 
 
 ## Healthcare AI Backend
 
-### [Healthcare AI Workflow Assistant](https://github.com/dawit-Tegegnwork/medimind-hep-assist-ai) *(renaming to healthcare-ai-workflow-assistant)*
+### [Healthcare AI Workflow Assistant](https://github.com/dawit-Tegegnwork/healthcare-ai-workflow-assistant)
 
 FastAPI workflow demo: synthetic notes, mock LLM structured extraction, human review, PostgreSQL audit logs, dashboard.
 
